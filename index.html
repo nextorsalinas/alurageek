@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stlyle.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>challenge AluraGeek</title>
+</head>
+<body>
+    <header>
+        <img src="assets/ser.png" alt="logo" class="logo">
+        <h1 class="titulo-principal">AluraGeek</h1>
+    </header>
+    <main class="contenedor-main">
+        <section class="productos">
+            <h2>Mis Productos:</h2>
+            <div class="productos-grid">
+                <div class="no-productos" style="display: none;">
+                    <p><em>No se han agregado productos</em></p>
+                </div>
+            </div>
+        </section>
+        <section class="formulario">
+            <h2>Agregar Producto:</h2>
+            <form>
+              <input type="text" id="nombre" name="nombre" placeholder="nombre.......">
+          
+              <input type="number" id="precio" name="precio" step="0.01" placeholder="precio........">
+          
+              <input type="text" id="imagen" name="imagen" placeholder="imagen.......">
+          
+              <div class="botones">
+                <button type="submit">Enviar</button>
+                <button type="reset">Limpiar</button>
+              </div>
+            </form>
+          </section>
+      </main>
+      <footer class="footer">
+        <div class="footer-content">
+            <div class="hearts">
+                <span class="pixel-heart">❤</span>
+                <span class="pixel-heart">❤</span>
+                <span class="pixel-heart">❤</span>
+            </div>
+            <h2 class="footer-title">AluraGeek</h2>
+            <p class="footer-subtitle">DESARROLLADO POR NESTOR SALINAS</p>
+            <p class="footer-year">ALURA LATAM 2024</p>
+        </div>
+    </footer>
+    <script src="js/api.js"></script>
+
+</body>
+</html>

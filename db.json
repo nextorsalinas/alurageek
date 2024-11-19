@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": "16",
+      "nombre": "spider man",
+      "precio": 25,
+      "imagen": "https://i5.walmartimages.com/asr/0f3243fa-ef1e-4717-aba2-cbf5ad6ae6ee.df2fe66255524a3a9ed6d111b1b81787.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "735",
+      "nombre": "Black Panter",
+      "precio": 56,
+      "imagen": "https://th.bing.com/th/id/OIP.ANRcLeXIFI0trNNgAnTf5gHaHa?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "354",
+      "nombre": "Capitan",
+      "precio": 2000,
+      "imagen": "https://i5.walmartimages.com/asr/0f3243fa-ef1e-4717-aba2-cbf5ad6ae6ee.df2fe66255524a3a9ed6d111b1b81787.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "475",
+      "nombre": "Doctor strange ",
+      "precio": 1300,
+      "imagen": "https://i5.walmartimages.com/asr/cf0d2903-6550-4df6-9e9b-36321a532e44.169ff7df8b7fd0dbd84bb2c1fe2b8b5c.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "580",
+      "nombre": "Ant man",
+      "precio": 566,
+      "imagen": "https://th.bing.com/th/id/OIP.ANRcLeXIFI0trNNgAnTf5gHaHa?rs=1&pid=ImgDetMain"
+    }
+  ]
+}
